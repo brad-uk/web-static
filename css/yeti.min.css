@@ -1,0 +1,17 @@
+--2013-12-16 13:16:31--  http://bootswatch.com/yeti/bootstrap.min.css
+Resolving bootswatch.com (bootswatch.com)... 207.97.227.245
+Connecting to bootswatch.com (bootswatch.com)|207.97.227.245|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /yeti/bootstrap.min.css [following]
+--2013-12-16 13:16:32--  http://bootswatch.com/yeti/bootstrap.min.css
+Connecting to bootswatch.com (bootswatch.com)|207.97.227.245|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108774 (106K) [text/css]
+Saving to: `bootstrap.min.css.1'
+
+     0K .......... .......... .......... .......... .......... 47%  279K 0s
+    50K .......... .......... .......... .......... .......... 94%  556K 0s
+   100K ......                                                100% 11873G=0.3s
+
+2013-12-16 13:16:32 (394 KB/s) - `bootstrap.min.css.1' saved [108774/108774]
+
